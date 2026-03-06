@@ -324,7 +324,7 @@ This project is open-source and available under the **MIT License**. See LICENSE
 
 💬 **Have questions?**
 - Open an [Issue](https://github.com/adityapurohit01/JOSAA-College-Recommendation-Tool/issues)
-- 📧 Email: aditya@example.com
+- 📧 Email: adityapurohit839@gmail.com
 
 ⭐ **Like this tool?**
 - Please star ⭐ the repository
@@ -346,7 +346,7 @@ This project is open-source and available under the **MIT License**. See LICENSE
   <p><strong>Made with ❤️ by Aditya Purohit</strong></p>
   <p>
     <a href="https://github.com/adityapurohit01">GitHub</a> •
-    <a href="https://twitter.com/adityapurohit01">Twitter</a> •
+    
     <a href="https://linkedin.com/in/adityapurohit01">LinkedIn</a>
   </p>
   <p>⭐ If this helped you, please star the repo! ⭐</p>
